@@ -6,3 +6,4 @@
 <p>https://github.com/milanm/DevOps-Roadmap/blob/master/DevOps%20Roadmap.png</p>
 <p>https://www.syncfusion.com/blogs/post/secure-jwt-storage-best-practices?ref=dailydev</p>
 <p>https://www.syncfusion.com/blogs/post/secure-jwt-storage-best-practices?ref=dailydev</p>
+<p>https://www.atlassian.com/blog/project-management/knowledge-management-tools?ref=dailydev</p>
