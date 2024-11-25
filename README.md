@@ -11,3 +11,4 @@
 <p>https://app.haikei.app/</p>
 <p>https://bgjar.com/meteor</p>
 <p>https://coolbackgrounds.io/</p>
+<p>https://dev.to/thenanjay/docker-image-optimization-reducing-size-for-faster-deployments-489g</p>
