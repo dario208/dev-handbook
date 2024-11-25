@@ -10,3 +10,4 @@
 <p>https://a-chacon.com/en/docker/2024/09/16/run-llm-locally.html?ref=dailydev</p>
 <p>https://app.haikei.app/</p>
 <p>https://bgjar.com/meteor</p>
+<p>https://coolbackgrounds.io/</p>
