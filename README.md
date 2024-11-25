@@ -8,3 +8,4 @@
 <p>https://www.syncfusion.com/blogs/post/secure-jwt-storage-best-practices?ref=dailydev</p>
 <p>https://www.atlassian.com/blog/project-management/knowledge-management-tools?ref=dailydev</p>
 <p>https://a-chacon.com/en/docker/2024/09/16/run-llm-locally.html?ref=dailydev</p>
+<p>https://app.haikei.app/</p>
