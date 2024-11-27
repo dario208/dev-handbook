@@ -14,3 +14,4 @@
 <p>https://dev.to/thenanjay/docker-image-optimization-reducing-size-for-faster-deployments-489g</p>
 <p>https://cuicui.day/common-ui/badges</p>
 <p>https://nginxui.com/guide/getting-started.html</p>
+<p>https://blog.openreplay.com/create-scroll-animations-with-just-css/?ref=dailydev</p>
