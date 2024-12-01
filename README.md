@@ -18,3 +18,4 @@
 <p>https://dev.to/truongpx396/reactjs-typescript-vite-with-redux-and-tanstack-react-query-in-practice-7eg?ref=dailydev</p>
 <p>https://devopssec.fr/article/comprendre-gerer-manipuler-un-cluster-docker-swarm</p>
 <p>https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253</p>
+<p>https://www.fermyon.com/blog/api-testing-demo?ref=dailydev</p>
