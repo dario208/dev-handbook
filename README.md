@@ -19,3 +19,4 @@
 <p>https://devopssec.fr/article/comprendre-gerer-manipuler-un-cluster-docker-swarm</p>
 <p>https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253</p>
 <p>https://www.fermyon.com/blog/api-testing-demo?ref=dailydev</p>
+<p>https://developer.fermyon.com/spin/v2/sqlite-api-guide?_gl=1*6lghzb*_ga*MTQ5OTU0ODAxLjE3MzMwMzQwNzU.*_ga_DXM7W0VBXS*MTczMzAzNDA3NS4xLjAuMTczMzAzNDA3NS42MC4wLjA.</p>
