@@ -23,3 +23,4 @@
 <p>https://medium.com/@jan.hesters/how-to-set-up-next-js-15-for-production-in-2024-347f542922b4</p>
 <p>https://dev.to/keshav___dev/docker-cheat-sheet-for-beginners-18mo?ref=dailydev</p>
 <p>https://www.flagsmith.com/</p>
+<p>https://tailgrids.com/blog/tailwind-resources?ref=dailydev</p>
