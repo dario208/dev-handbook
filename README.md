@@ -24,3 +24,4 @@
 <p>https://dev.to/keshav___dev/docker-cheat-sheet-for-beginners-18mo?ref=dailydev</p>
 <p>https://www.flagsmith.com/</p>
 <p>https://tailgrids.com/blog/tailwind-resources?ref=dailydev</p>
+<p>https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev</p>
