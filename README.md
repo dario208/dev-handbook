@@ -29,4 +29,5 @@
 <p>https://www.robinwieruch.de/react-tech-stack/?ref=dailydev</p>https://tailgrids.com/blog/tailwind-resources?ref=dailydev</p>
 <p>https://gitbutler.com/</p>
 <p>https://logdy.dev/</p>
+<p>https://glaze.dev/</p>
 
