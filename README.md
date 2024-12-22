@@ -28,6 +28,7 @@
 <p>https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev</p>
 <p>https://www.robinwieruch.de/react-tech-stack/?ref=dailydev</p>https://tailgrids.com/blog/tailwind-resources?ref=dailydev</p>
 <p>https://gitbutler.com/</p>
+<p>https://last9.io/blog/grafana-and-docker/?ref=dailydev</p>
 <p>https://logdy.dev/</p>
 <p>https://glaze.dev/</p>
 <p>https://wind-ui.com/</p>
