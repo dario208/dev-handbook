@@ -21,9 +21,11 @@
 <p>https://www.fermyon.com/blog/api-testing-demo?ref=dailydev</p>
 <p>https://developer.fermyon.com/spin/v2/sqlite-api-guide?_gl=1*6lghzb*_ga*MTQ5OTU0ODAxLjE3MzMwMzQwNzU.*_ga_DXM7W0VBXS*MTczMzAzNDA3NS4xLjAuMTczMzAzNDA3NS42MC4wLjA.</p>
 <p>https://medium.com/@jan.hesters/how-to-set-up-next-js-15-for-production-in-2024-347f542922b4</p>
+<p>https://pyimagesearch.com/2024/11/04/enhancing-github-actions-ci-for-fastapi-build-test-and-publish/?ref=dailydev</p>
 <p>https://dev.to/keshav___dev/docker-cheat-sheet-for-beginners-18mo?ref=dailydev</p>
 <p>https://www.flagsmith.com/</p>
 <p>https://tailgrids.com/blog/tailwind-resources?ref=dailydev</p>
 <p>https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev</p>
-<p>https://www.robinwieruch.de/react-tech-stack/?ref=dailydev</p>https://tailgrids.com/blog/tailwind-resources?ref=dailydev
+<p>https://www.robinwieruch.de/react-tech-stack/?ref=dailydev</p>https://tailgrids.com/blog/tailwind-resources?ref=dailydev</p>
+<p>https://gitbutler.com/</p>
 
