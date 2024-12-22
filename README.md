@@ -30,4 +30,5 @@
 <p>https://gitbutler.com/</p>
 <p>https://logdy.dev/</p>
 <p>https://glaze.dev/</p>
+<p>https://wind-ui.com/</p>
 
