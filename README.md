@@ -36,6 +36,7 @@
 <p>https://newsletter.techworld-with-milan.com/p/15-best-leadership-books?ref=dailydev</p>
 <p>https://cursify.vercel.app/</p>
 <p>https://dev.to/aws-builders/system-design-for-devops-engineers-45lh?ref=dailydev</p>
+<p>https://medium.com/@shaliamekh/clean-architecture-with-python-d62712fd8d4f</p>
 
 
 
