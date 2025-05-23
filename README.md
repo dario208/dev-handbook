@@ -38,6 +38,7 @@
 <p>https://dev.to/aws-builders/system-design-for-devops-engineers-45lh?ref=dailydev</p>
 <p>https://medium.com/@shaliamekh/clean-architecture-with-python-d62712fd8d4f</p>
 <p>https://www.permit.io/blog/supabase-authentication-and-authorization-in-nextjs-implementation-guide?ref=dailydev</p>
+<p>https://www.blog4ems.com/p/your-hackathon-survival-guide?ref=dailydev</p>
 
 
 
