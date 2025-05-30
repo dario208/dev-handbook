@@ -40,6 +40,7 @@
 <p>https://www.permit.io/blog/supabase-authentication-and-authorization-in-nextjs-implementation-guide?ref=dailydev</p>
 <p>https://www.blog4ems.com/p/your-hackathon-survival-guide?ref=dailydev</p>
 <p>https://quickref.me/javascript?ref=dailydev</p>
+<p>https://dev.to/code42cate/5-projects-that-will-actually-make-you-better-at-docker-5108?ref=dailydev</p>
 
 
 
