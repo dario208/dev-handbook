@@ -44,6 +44,7 @@
 <p>https://github.com/temporal-community</p>
 <p>https://learn.temporal.io/getting_started/typescript/first_program_in_typescript/</p>
 <p>https://github.com/temporalio/docker-compose</p>
+<p>https://spacelift.io/blog/podman-vs-docker?ref=dailydev</p>
 
 
 
