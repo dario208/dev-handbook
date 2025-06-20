@@ -48,6 +48,7 @@
 <p>https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev</p>
 <p>https://flowbite.com/tools/tailwind-cheat-sheet/?ref=dailydev</p>
 <p>https://newsletter.systemdesigncodex.com/p/essential-components-of-a-production-069?ref=dailydev</p>
+<p>https://medium.com/javarevisited/microservices-architecture-d02f2052d4bd</p>
 
 
 
