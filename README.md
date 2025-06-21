@@ -49,6 +49,7 @@
 <p>https://flowbite.com/tools/tailwind-cheat-sheet/?ref=dailydev</p>
 <p>https://newsletter.systemdesigncodex.com/p/essential-components-of-a-production-069?ref=dailydev</p>
 <p>https://medium.com/javarevisited/microservices-architecture-d02f2052d4bd</p>
+<p>https://blog.logrocket.com/next-js-alternatives-react/?ref=dailydev</p>
 
 
 
