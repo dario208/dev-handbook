@@ -51,6 +51,7 @@
 <p>https://medium.com/javarevisited/microservices-architecture-d02f2052d4bd</p>
 <p>https://blog.logrocket.com/next-js-alternatives-react/?ref=dailydev</p>
 <p>https://newsletter.systemdesigncodex.com/p/key-topics-to-learn-api-development?ref=dailydev</p>
+<p>https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/?ref=dailydev</p>
 
 
 
