@@ -54,6 +54,7 @@
 <p>https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/?ref=dailydev</p>
 <p>https://testdriven.io/blog/fastapi-mongo-websockets/?ref=dailydev</p>
 <p>https://skiper-ui.com/docs/components/card-carousel</p>
+<p>https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-e3d59eca10d3</p>
 
 
 
