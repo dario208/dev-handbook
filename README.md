@@ -56,6 +56,7 @@
 <p>https://skiper-ui.com/docs/components/card-carousel</p>
 <p>https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-e3d59eca10d3</p>
 <p>https://dev.to/ivanivanovv/how-to-build-a-nodejsexpress-rest-api-in-5-minutes-with-ai-53ng?ref=dailydev</p>
+<p>https://testdriven.io/blog/fastapi-postgres-websockets/?ref=dailydev</p>
 
 
 
