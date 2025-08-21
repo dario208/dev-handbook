@@ -59,6 +59,7 @@
 <p>https://testdriven.io/blog/fastapi-postgres-websockets/?ref=dailydev</p>
 <p>https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack?ref=dailydev</p>
 <p>https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev</p>
+<p>https://devops-daily.com/toolbox?ref=dailydev</p>
 
 
 
