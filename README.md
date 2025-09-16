@@ -13,7 +13,8 @@ Classés par thèmes pour être plus facile à consulter.
 - [FastAPI + Postgres + Websockets](https://testdriven.io/blog/fastapi-postgres-websockets/?ref=dailydev)  
 - [Enhancing GitHub Actions CI for FastAPI](https://pyimagesearch.com/2024/11/04/enhancing-github-actions-ci-for-fastapi-build-test-and-publish/?ref=dailydev)  
 - [API Design 101](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-e3d59eca10d3)  
-- [Calendly Clone avec Google Calendar](https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/?ref=dailydev)  
+- [Calendly Clone avec Google Calendar](https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/?ref=dailydev)
+- (https://leapcell.io/blog/fastapi-performance-hacks?ref=dailydev)
 
 ---
 
