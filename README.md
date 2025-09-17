@@ -15,6 +15,7 @@ Classés par thèmes pour être plus facile à consulter.
 - [API Design 101](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-e3d59eca10d3)  
 - [Calendly Clone avec Google Calendar](https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/?ref=dailydev)
 - (https://leapcell.io/blog/fastapi-performance-hacks?ref=dailydev)
+- https://levelup.gitconnected.com/authentication-explained-when-to-use-basic-bearer-oauth2-jwt-sso-b2418c1af939
 
 ---
 
